@@ -1,7 +1,5 @@
 # Bitcoin Price Visualization
 
-![Bitcoin](https://www.bitcoin.com/wp-content/uploads/2020/12/bitcoin_hero.jpeg)
-
 This project retrieves and visualizes Bitcoin (BTC) price data in Brazilian Real (BRL) using the `economia.awesomeapi.com.br` API. It fetches daily BTC-BRL exchange rates within a specified date range and displays the prices in a graphical format using `matplotlib`.
 
 ![](./image.png)
